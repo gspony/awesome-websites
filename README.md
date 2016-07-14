@@ -1,6 +1,6 @@
 # ifeegoo-search-engine
 
-https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
+http://search.ifeegoo.com
 
 适合中国移动开发者、智能设备开发者的自定义搜索引擎，目前已经包含N个高质量各类相关网站。
 
