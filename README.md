@@ -1,8 +1,8 @@
 # ifeegoo-search-engine
 
-http://search.ifeegoo.com
+http://search.ifeegoo.com  powered by Google CSE
 
-适合中国移动开发者、物联网开发者的自定义搜索引擎，目前已经包含N个高质量各类相关网站。
+此搜索引擎是基于 Google CSE 定制的适合中国移动开发者、物联网开发者的自定义搜索引擎，目前已经包含N个高质量各类相关网站。
 
 ## 代码托管网站
 
@@ -10,6 +10,25 @@ http://search.ifeegoo.com
 |---|---|---|---|---|---
 |1|https://github.com|English|Github|第一开源代码托管网站
 |2|https://bitbucket.org|English|Bitbucket|Atlassian 公司出品，支持免费私有仓库
+|3|https://sourceforge.net|English|SourceForge|SF，预估可以排到 Github 之后的第二大开源代码托管网站
+|4|https://code.google.com/projecthosting|English|Google Code|Google 提供免费的使用 Subversion 或是 Mercurial 版本控制系统的开源项目托管服务
+|5|https://projects.eclipse.org|English|Eclipse Projects|围绕 Eclipse 的开源代码托管网站
+|6|https://launchpad.net|English|Launchpad|由 Ubuntu 的东家 Canonical 维护，LaunchPad 目标是运行在 Ubuntu 上的项目
+|7|http://www.tigris.org|English|Tigris|Tigris 具有很强的专注性，仅限于“为协作软件开发创建更好的工具”
+|8|http://savannah.gnu.org|English|GNU Savannah|Savannah 定义自己为“官方 GNU 软件的开发、维护、发行的中心”
+|9|http://savannah.nongnu.org|English|NOGNU Savannah|与 Savannah-GNU 相对应，Savannah-non-GNU 托管其他类型的开源项目
+|10|https://gna.org|English|Gna|与 Savannah 类似
+|11|http://www.codeplex.com|English|CodePlex|由微软托管，CodePlex 提供微软开发的开源软件和一些社区项目
+|12|http://java.net|English|Java|最早由 Sun 公司创立，Java.net 托管和链接大量的 Java 相关的项目
+|13|http://forge.ow2.org|English|OW2|提供基础软件相关的开源项目托管服务
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://coding.net|中文|码市|国内较大的代码托管服务
+|2|http://code.csdn.net|中文|CSDN Code|CSDN 代码托管服务
+|3|http://git.oschina.net|中文|码云|开源中国的代码托管服务
+|4|http://code.taobao.org|中文|TaoCode|淘宝提供的代码托管服务
+
 
 
 ## 移动互联网
@@ -48,6 +67,14 @@ http://search.ifeegoo.com
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
 |1|https://developer.android.com|English|Android Developers|Android 开发者官网
+
+#### Android 源码网站
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://androidxref.com|English|AndroidXRef|非官方的 Android 源码托管网站，从内核层到应用层源码
+
+
 
 #### 论坛社区
 
