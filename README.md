@@ -93,9 +93,47 @@ http://search.ifeegoo.com  powered by Google CSE
 
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
+|1|https://www.raywenderlich.com|English|Ray Wenderlich|侧重于苹果开发的国外社区
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
 |1|http://www.cocoachina.com|中文|CocoaChina|国内最大影响力的苹果开发社区
 
 #### 个人技术博客
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://onevcat.com|中文|OneV's Den|王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
+|2|http://blog.devtang.com|中文|唐巧的技术博客|唐巧，男，80 后，程序员。InfoQ 编辑, 《iOS 开发进阶》 作者 , 在 猿题库 创业。
+
+#### 社区技术博客
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://www.objc.io|English|objc.io|著名的 iOS 技术博客
+|2|http://nshipster.com|English|NSHipster|著名的 iOS 技术博客
+|3|https://developer.apple.com/swift/blog|English|Swift Blog|Apple 官方 Swift 博客
+
+
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://www.objccn.io|中文|ObjC 中国|ObjC 中文版本
+|2|http://nshipster.cn|中文|NSHipster 中国|NSHipster 中文版本
+
+#### 资源站
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://www.cocoacontrols.com|English|Cocoa Controls|Code4App 的鼻祖
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://code4app.com|中文|Code4App|中国版 Cocoa Controls
+
+
+
+
 
 
 ***
