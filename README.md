@@ -105,7 +105,7 @@ http://search.ifeegoo.com  powered by Google CSE
 |---|---|---|---|---|---
 |1|https://onevcat.com|中文|OneV's Den|王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
 |2|http://blog.devtang.com|中文|唐巧的技术博客|唐巧，男，80 后，程序员。InfoQ 编辑, 《iOS 开发进阶》 作者 , 在 猿题库 创业。
-
+|2|http://www.devtalking.com|中文|程序员说|未知。
 #### 社区技术博客
 
 |No.|网址|语言|名称|简介
