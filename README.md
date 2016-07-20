@@ -29,7 +29,11 @@ http://search.ifeegoo.com  powered by Google CSE
 |3|http://git.oschina.net|中文|码云|开源中国的代码托管服务
 |4|http://code.taobao.org|中文|TaoCode|淘宝提供的代码托管服务
 
+## 服务平台
 
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://www.sdk.cn|中文|SDK.CN|中国领先的开发者服务平台
 
 ## 移动互联网
 
