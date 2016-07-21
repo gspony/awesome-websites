@@ -144,6 +144,12 @@ http://search.ifeegoo.com  powered by Google CSE
 
 ## 物联网
 
+#### 值得关注的服务提供商
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://www.xlink.cn|中文|云智易|IoT 整体方案提供商
+
 
 
 
