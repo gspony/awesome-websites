@@ -1,6 +1,6 @@
-# ifeegoo-search-engine
+# google-cse-for-mobile-developers-and-iot-developers
 
-http://search.ifeegoo.com  powered by Google CSE
+https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 
 此搜索引擎是基于 Google CSE 定制的适合中国移动开发者、物联网开发者的自定义搜索引擎，目前已经包含N个高质量各类相关网站。
 
