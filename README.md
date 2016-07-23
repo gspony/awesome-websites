@@ -21,19 +21,19 @@ http://search.ifeegoo.com  powered by Google CSE
 |11|http://www.codeplex.com|English|CodePlex|由微软托管，CodePlex 提供微软开发的开源软件和一些社区项目
 |12|http://java.net|English|Java|最早由 Sun 公司创立，Java.net 托管和链接大量的 Java 相关的项目
 |13|http://forge.ow2.org|English|OW2|提供基础软件相关的开源项目托管服务
-
-|No.|网址|语言|名称|简介
-|---|---|---|---|---|---
+|###|###|###|###|###
 |1|https://coding.net|中文|码市|国内较大的代码托管服务
 |2|http://code.csdn.net|中文|CSDN Code|CSDN 代码托管服务
 |3|http://git.oschina.net|中文|码云|开源中国的代码托管服务
 |4|http://code.taobao.org|中文|TaoCode|淘宝提供的代码托管服务
 
-## 服务平台
+## 移动互联网服务平台
 
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
-|1|https://www.sdk.cn|中文|SDK.CN|中国领先的开发者服务平台
+|1|https://www.sdk.cn|中文|SDK.CN|中国领先的移动互联网服务平台
+|2|http://www.devstore.cn|中文|DevStore|移动互联网企业服务平台
+
 
 ## 移动互联网
 
@@ -98,9 +98,7 @@ http://search.ifeegoo.com  powered by Google CSE
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
 |1|https://www.raywenderlich.com|English|Ray Wenderlich|侧重于苹果开发的国外社区
-
-|No.|网址|语言|名称|简介
-|---|---|---|---|---|---
+|###|###|###|###|###
 |1|http://www.cocoachina.com|中文|CocoaChina|国内最大影响力的苹果开发社区
 
 #### 个人技术博客
@@ -110,6 +108,7 @@ http://search.ifeegoo.com  powered by Google CSE
 |1|https://onevcat.com|中文|OneV's Den|王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
 |2|http://blog.devtang.com|中文|唐巧的技术博客|唐巧，男，80 后，程序员。InfoQ 编辑, 《iOS 开发进阶》 作者 , 在 猿题库 创业。
 |2|http://www.devtalking.com|中文|程序员说|未知。
+
 #### 社区技术博客
 
 |No.|网址|语言|名称|简介
@@ -117,11 +116,7 @@ http://search.ifeegoo.com  powered by Google CSE
 |1|https://www.objc.io|English|objc.io|著名的 iOS 技术博客
 |2|http://nshipster.com|English|NSHipster|著名的 iOS 技术博客
 |3|https://developer.apple.com/swift/blog|English|Swift Blog|Apple 官方 Swift 博客
-
-
-
-|No.|网址|语言|名称|简介
-|---|---|---|---|---|---
+|###|###|###|###|###
 |1|https://www.objccn.io|中文|ObjC 中国|ObjC 中文版本
 |2|http://nshipster.cn|中文|NSHipster 中国|NSHipster 中文版本
 
@@ -130,15 +125,8 @@ http://search.ifeegoo.com  powered by Google CSE
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
 |1|https://www.cocoacontrols.com|English|Cocoa Controls|Code4App 的鼻祖
-
-|No.|网址|语言|名称|简介
-|---|---|---|---|---|---
+|###|###|###|###|###
 |1|http://code4app.com|中文|Code4App|中国版 Cocoa Controls
-
-
-
-
-
 
 ***
 
