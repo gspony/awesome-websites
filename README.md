@@ -155,6 +155,10 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 
 ## 运营
 
+## 其他
+
+http://choosealicense.com/
+
 
 
 
