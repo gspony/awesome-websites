@@ -163,5 +163,27 @@ http://color-themes.com/
 
 http://www.lcode.org/
 
+http://www.swiftv.cn/
+
+http://swifter.tips/
+
+https://swift.org/
+
+http://www.swiftguide.cn/
+
+视频教学：
+
+http://www.jikexueyuan.com/
+
+http://www.imooc.com/
+
+http://ke.qq.com
+
+http://www.chuanke.com
+
+http://study.163.com/
+
+
+
 
 
