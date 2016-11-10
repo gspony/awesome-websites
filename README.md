@@ -107,7 +107,8 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |---|---|---|---|---|---
 |1|https://onevcat.com|中文|OneV's Den|王巍 (@onevcat)，一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE。正在修行，探求创意之源。
 |2|http://blog.devtang.com|中文|唐巧的技术博客|唐巧，男，80 后，程序员。InfoQ 编辑, 《iOS 开发进阶》 作者 , 在 猿题库 创业。
-|2|http://www.devtalking.com|中文|程序员说|未知。
+|3|http://www.devtalking.com|中文|程序员说|未知。
+|4|http://www.lcode.org|中文|江清清的技术专栏|React Native 相关的技术博客。
 
 #### 社区技术博客
 
@@ -157,11 +158,25 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 
 ## 其他
 
+## 视频站
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://www.jikexueyuan.com|中文|极客学院|在线视频教育
+|2|http://www.imooc.com|中文|慕课网|在线视频教育
+|3|http://www.chuanke.com|中文|传课|在线视频教育
+|4|http://open.163.com|中文/English|网易公开课|在线视频教育
+|5|http://study.163.com|中文|网易课堂|在线视频教育
+|6|http://ke.qq.com|中文|腾讯课堂|在线视频教育
+|7|http://class.qq.com|中文|腾讯精品课|在线视频教育
+|8|http://daxue.qq.com|中文|腾讯大学|腾讯内部学习视频
+
+
 http://choosealicense.com/
 
 http://color-themes.com/
 
-http://www.lcode.org/
+
 
 http://www.swiftv.cn/
 
@@ -173,15 +188,11 @@ http://www.swiftguide.cn/
 
 视频教学：
 
-http://www.jikexueyuan.com/
 
-http://www.imooc.com/
 
-http://ke.qq.com
+/
 
-http://www.chuanke.com
 
-http://study.163.com/
 
 https://github.com/search?utf8=%E2%9C%93&q=awesome+swift&type=Repositories&ref=searchresults
 
