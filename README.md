@@ -120,6 +120,8 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |###|###|###|###|###
 |1|https://www.objccn.io|中文|ObjC 中国|ObjC 中文版本
 |2|http://nshipster.cn|中文|NSHipster 中国|NSHipster 中文版本
+|3|http://swifter.tips|中文|Swift 必备 Tips|猫王维护的 Swift 博客
+|4|http://www.swiftguide.cn|中文|Swift 学习指引|Swift 学习博客
 
 #### 资源站
 
