@@ -19,7 +19,7 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |9|http://savannah.nongnu.org|English|NOGNU Savannah|与 Savannah-GNU 相对应，Savannah-non-GNU 托管其他类型的开源项目
 |10|https://gna.org|English|Gna|与 Savannah 类似
 |11|http://www.codeplex.com|English|CodePlex|由微软托管，CodePlex 提供微软开发的开源软件和一些社区项目
-|12|http://java.net|English|Java|最早由 Sun 公司创立，Java.net 托管和链接大量的 Java 相关的项目
+|12|http://www.java.net|English|Java|最早由 Sun 公司创立，Java.net 托管和链接大量的 Java 相关的项目
 |13|http://forge.ow2.org|English|OW2|提供基础软件相关的开源项目托管服务
 |###|###|###|###|###
 |1|https://coding.net|中文|码市|国内较大的代码托管服务
