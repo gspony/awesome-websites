@@ -109,6 +109,10 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |2|http://blog.devtang.com|中文|唐巧的技术博客|唐巧，男，80 后，程序员。InfoQ 编辑, 《iOS 开发进阶》 作者 , 在 猿题库 创业。
 |3|http://www.devtalking.com|中文|程序员说|未知。
 |4|http://www.lcode.org|中文|江清清的技术专栏|React Native 相关的技术博客。
+|5|http://swifter.tips|中文|Swift 必备 Tips|王巍维护的关于 Swift 博客。
+
+
+
 
 #### 社区技术博客
 
@@ -160,7 +164,9 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 
 ## 其他
 
-## 视频站
+### 视频站
+
+#### 综合类
 
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
@@ -173,30 +179,20 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |7|http://class.qq.com|中文|腾讯精品课|在线视频教育
 |8|http://daxue.qq.com|中文|腾讯大学|腾讯内部学习视频
 
+#### 专一类
 
-http://choosealicense.com/
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://www.swiftv.cn|中文|SwiftV课堂|Swift 视频网站
 
-http://color-themes.com/
+### 工具类
 
-
-
-http://www.swiftv.cn/
-
-http://swifter.tips/
-
-https://swift.org/
-
-http://www.swiftguide.cn/
-
-视频教学：
-
-
-
-/
-
-
-
-https://github.com/search?utf8=%E2%9C%93&q=awesome+swift&type=Repositories&ref=searchresults
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://choosealicense.com|English|Choose an open source license
+|生成开源项目的许可证
+|2|https://www.gitignore.io|中文|gitignore.io|gitignore 文件生成器
+|3|http://color-themes.com|English|Color Themes|给 IDEA, Webstorm, PyCharm, RubyMine, PhpStorm and AppCode 生成主题颜色
 
 
 
