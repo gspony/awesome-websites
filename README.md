@@ -189,8 +189,7 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
-|1|http://choosealicense.com|English|Choose an open source license
-|生成开源项目的许可证
+|1|http://choosealicense.com|English|Choose an open source license|生成开源项目的许可证
 |2|https://www.gitignore.io|中文|gitignore.io|gitignore 文件生成器
 |3|http://color-themes.com|English|Color Themes|给 IDEA, Webstorm, PyCharm, RubyMine, PhpStorm and AppCode 生成主题颜色
 
