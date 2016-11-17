@@ -172,12 +172,13 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |---|---|---|---|---|---
 |1|http://www.jikexueyuan.com|中文|极客学院|在线视频教育
 |2|http://www.imooc.com|中文|慕课网|在线视频教育
-|3|http://www.chuanke.com|中文|传课|在线视频教育
-|4|http://open.163.com|中文/English|网易公开课|在线视频教育
-|5|http://study.163.com|中文|网易课堂|在线视频教育
-|6|http://ke.qq.com|中文|腾讯课堂|在线视频教育
-|7|http://class.qq.com|中文|腾讯精品课|在线视频教育
-|8|http://daxue.qq.com|中文|腾讯大学|腾讯内部学习视频
+|3|http://www.chuanke.com|中文|传课|在线视频教育  
+|4|http://www.maiziedu.com|中文|麦子学院|在线视频教育
+|5|http://open.163.com|中文/English|网易公开课|在线视频教育
+|6|http://study.163.com|中文|网易课堂|在线视频教育
+|7|http://ke.qq.com|中文|腾讯课堂|在线视频教育
+|8|http://class.qq.com|中文|腾讯精品课|在线视频教育
+|9|http://daxue.qq.com|中文|腾讯大学|腾讯内部学习视频
 
 #### 专一类
 
