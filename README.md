@@ -98,6 +98,8 @@ https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
 |No.|网址|语言|名称|简介
 |---|---|---|---|---|---
 |1|https://www.raywenderlich.com|English|Ray Wenderlich|侧重于苹果开发的国外社区
+|2|http://www.learnswift.tips|English|Learn Swift|Learn Swift Tips
+
 |###|###|###|###|###
 |1|http://www.cocoachina.com|中文|CocoaChina|国内最大影响力的苹果开发社区
 
