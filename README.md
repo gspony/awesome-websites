@@ -1,8 +1,6 @@
-# google-cse-for-mobile-developers-and-iot-developers
+# websites-for-mobile-developers-and-iot-developers
 
-https://cse.google.com/cse/publicurl?cx=001065993125536787774:0nbnwr1tiyo
-
-此搜索引擎是基于 Google CSE 定制的适合中国移动开发者、物联网开发者的自定义搜索引擎，目前已经包含N个高质量各类相关网站。
+适合中国移动开发者、物联网开发者的网站合集，目前已经包含 N 个高质量各类相关网站，持续更新中！
 
 ## 代码托管网站
 
