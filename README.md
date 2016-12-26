@@ -138,6 +138,20 @@
 
 ## 物联网
 
+#### IDE
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|http://platformio.org|English|PlatformIO|PlatformIO is an open source ecosystem for IoT development
+|2|http://www.keil.com|English|Keil|Keil is an embedded development tool
+
+#### IoT Data analytics
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---|---
+|1|https://www.initialstate.com|English|Initial State|Data analytics for IoT
+
+
 #### 值得关注的服务提供商
 
 |No.|网址|语言|名称|简介
