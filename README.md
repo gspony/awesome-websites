@@ -1,4 +1,4 @@
-# websites-for-mobile-developers-and-iot-developers
+# awesome-websites
 
 适合中国移动开发者、物联网开发者的网站合集，目前已经包含 N 个高质量各类相关网站，持续更新中！
 
@@ -109,9 +109,6 @@
 |3|http://www.devtalking.com|中文|程序员说|未知。
 |4|http://www.lcode.org|中文|江清清的技术专栏|React Native 相关的技术博客。
 |5|http://swifter.tips|中文|Swift 必备 Tips|王巍维护的关于 Swift 博客。
-
-
-
 
 #### 社区技术博客
 
@@ -226,6 +223,11 @@
 |2|https://www.gitignore.io|中文|gitignore.io|gitignore 文件生成器
 |3|http://color-themes.com|English|Color Themes|给 IDEA, Webstorm, PyCharm, RubyMine, PhpStorm and AppCode 生成主题颜色
 
+### VPN
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---
+|1|https://www.flyvpn.com/cn/|中文|FlyVPN|比较好的 VPN
 
 ### 未整理
 
@@ -235,24 +237,14 @@ http://folioformac.com/
 https://www.charlesproxy.com/  
 http://littlebigdetails.com/  
 https://www.invisionapp.com/  
-
-zeplin.io  
-http://www.pmcaff.com/
-
-http://www.uisdc.com/
-
-https://rocket.chat/
-
-https://www.dropbox.com/
-
-https://www.box.com/
-
-https://www.seafile.com
-
-http://www.iplaysoft.com/
-
-flyvpn.com
-
+https://zeplin.io/  
+http://www.pmcaff.com/  
+http://www.uisdc.com/  
+https://rocket.chat/  
+https://www.dropbox.com/  
+https://www.box.com/  
+https://www.seafile.com  
+http://www.iplaysoft.com/  
 https://www.autodraw.com/
 
 
