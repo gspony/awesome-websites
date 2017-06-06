@@ -229,6 +229,17 @@
 |---|---|---|---|---
 |1|https://www.flyvpn.com/cn/|中文|FlyVPN|比较好的 VPN
 
+### Infographics
+
+|No.|网址|语言|名称|简介
+|---|---|---|---|---
+|1|https://www.edrawsoft.com|English|Edraw Max Pro|Infographics Tool Software
+|2|https://infogr.am|English|Infogram|Online Infographics Tool
+|3|http://canvas.qq.com|中文|Canvas 图片设计图片|Online Infographics Tool
+|4|https://www.bdp.cn|中文|BDP|数据工具
+
+
+
 ### 未整理
 
 https://avocode.com/  
