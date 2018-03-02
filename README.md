@@ -8,7 +8,8 @@
 |---|---|---|---|---
 |1|https://36kr.com|中文|36氪|让一部分人先看到未来
 |2|https://ifanr.com|中文|爱范儿|报道未来，服务新生活
-
+|3|http://www.pingwest.com/|中文|品玩|品玩
+|4|https://www.theverge.com/|English|The Verge|The Verge
 
 ## 代码托管网站
 
